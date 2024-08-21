@@ -1,6 +1,8 @@
 # Rafael's security review's, contests and contributions
 
-### August 2023
+<img src="https://code4rena.com/logos/c4-logo.svg" width=200 height=50>
 
-1. [Beedle - Oracle free perpetual lending](contests/2023-07-beedle.md)
-2. [Dopex - A rebate system for option writers](contests/2023-08-dopex.md)
+| Contest | Date | High Risk | Medium Risk | 
+|--|:--:|:--:|:--:|
+| [Dopex - A rebate system for option writers](code4rena/2023-08-dopex.md) | September 2023 | 1 | 0 |
+| [Size - A credit marketplace with unified liquidity across maturities](code4rena/2024-08-dopex.md) | July 2024 | 0 | 1 |
