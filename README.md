@@ -4,5 +4,5 @@
 | Contest | Date | High Risk | Medium Risk | 
 |--|--|--|--|
 | [Phi - The identity layer for onchain.](code4rena/2024-08-phi.md) | August 2024 | 2 | 1 |
-| [Size - A credit marketplace with unified liquidity across maturities](code4rena/2024-06-dopex.md) | June 2024 | 0 | 1 |
+| [Size - A credit marketplace with unified liquidity across maturities](code4rena/2024-06-size.md) | June 2024 | 0 | 1 |
 | [Dopex - A rebate system for option writers](code4rena/2023-08-dopex.md) | September 2023 | 1 | 0 |
