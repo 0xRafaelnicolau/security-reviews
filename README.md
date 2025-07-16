@@ -12,5 +12,5 @@
 | [reNFT](https://code4rena.com/audits/2024-01-renft) | 0 | 1 | January 2024 | 94th | Code4rena |
 | [Dopex](https://code4rena.com/audits/2023-08-dopex) | 1 | 0 | September 2023 | 149th | Code4rena |
 | [Beedle](https://codehawks.cyfrin.io/c/2023-07-beedle) | 1 | 1 | August 2023 | 191th | Codehawks |
-| **TOTAL** | 11 | 13 | - | - | - |
+| **TOTAL** | 12 | 13 | - | - | - |
 
