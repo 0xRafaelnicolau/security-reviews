@@ -2,6 +2,7 @@
 
 | Contest | High Risk | Medium Risk | Date | Rank | Platform |
 |:--|:--:|:--:|:--:|:--:|:--:|
+| [Jigsaw](https://cantina.xyz/competitions/7a40c849-0b35-4128-b084-d9a83fd533ea/leaderboard) | 1 | 0 | May 2025 | 🥉 | Cantina |
 | [InfiniFi](https://cantina.xyz/competitions/2ac7f906-1661-47eb-bfd6-519f5db0d36b/leaderboard) | 0 | 2 | April 2025 | 11th | Cantina |
 | [DefiApp](https://cantina.xyz/competitions/1b64737c-1373-4ecf-a179-4cd0d7b0b232/leaderboard) | 0 | 1 | February 2025 | 16th | Cantina |
 | [RAAC](https://codehawks.cyfrin.io/c/2025-02-raac/results?lt=contest&page=1&sc=reward&sj=reward&t=leaderboard) | 6 | 5 | February 2025 | 181th | Codehawks |
